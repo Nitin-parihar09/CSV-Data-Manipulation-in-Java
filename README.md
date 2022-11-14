@@ -7,7 +7,7 @@ install the eclipse IDE suggested version 2021-12
 
 download the project zip folder and extract it 
 
-open the eclipse IDE and open the mave-project-nitin dictionary which is extracted from the zip folder
+open the eclipse IDE and open the maven-project-nitin dictionary which is extracted from the zip folder
 
 then find the GenerateTestData file from the project it will create a users.csv file in testdata folder with one record each time
 
